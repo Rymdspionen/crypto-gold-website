@@ -16,3 +16,4 @@ Deployed on Vercel with automatic deployments from GitHub.
 ## Environment Variables
 
 See `.env.example` for required configuration.
+
