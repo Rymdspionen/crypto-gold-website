@@ -19,3 +19,4 @@ See `.env.example` for required configuration.
 
 # Updated by Lars Nylin
 # Crypto Gold - Public Repository
+# Deployment trigger for Vercel
