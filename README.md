@@ -17,3 +17,4 @@ Deployed on Vercel with automatic deployments from GitHub.
 
 See `.env.example` for required configuration.
 
+# Updated by Lars Nylin
