@@ -21,3 +21,4 @@ See `.env.example` for required configuration.
 # Crypto Gold - Public Repository
 # Deployment trigger for Vercel
 # Environment variable configured
+# Deployment with correct git author for Vercel Hobby team
