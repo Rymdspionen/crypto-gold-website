@@ -1,7 +1,4 @@
 {
   "buildCommand": "yarn build",
-  "framework": "nextjs",
-  "env": {
-    "RESEND_API_KEY": "@resend-api-key"
-  }
+  "framework": "nextjs"
 }
